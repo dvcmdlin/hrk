@@ -1,0 +1,4 @@
+add a.txt
+midiffy aaaaa.txt
+modify again
+a=90
